@@ -17,4 +17,10 @@ export const students = [
     "favorite_subject": "sistemas oerativos",
     "whatever": "Me gusto mucho el curso jiji :D"
   }, 
+  {
+    "name": "Fernanda",
+    "lastname": "Tapia",
+    "favorite_subject": "Bases de Datos ",
+    "whatever": "Lo que esta destinado a ser, siempre encontrara la manera"
+  },  
 ];
