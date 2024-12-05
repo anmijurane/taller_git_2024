@@ -29,6 +29,12 @@ export const students = [
     "whatever": "Me agrado el curso"
   }, 
   {
+    "name": "Angel",
+    "lastname": "Torres",
+    "favorite_subject": "ABD",
+    "whatever": "Hi"
+  }
+  {
     "name": "Luis",
     "lastname": "Cortes",
     "favorite_subject": "Base de Datos",
