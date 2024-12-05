@@ -3,14 +3,20 @@ export const students = [
     "name": "M Andres",
     "lastname": "Jurado",
     "favorite_subject": "POO",
-    "whatever": "Siempre da lo mejor de ti"
-  },  
+    "whatever": "Siempre da lo mejor de ti",
+  },
+  {
+    "name": "Kevin A",
+    "lastname": "Flores",
+    "favorite_subject": "Fundamentos de programacion",
+    "whatever": "Vean himym"
+  },
   {
     "name": "Giovanny",
     "lastname": "Cabrera Gallo",
     "favorite_subject": "POO & mates",
     "whatever": "Mis juegos favoritos son: R6 & Cod "
-  }, 
+  },
   {
     "name": "Montse",
     "lastname": "Flores",
