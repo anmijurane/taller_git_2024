@@ -1,6 +1,6 @@
 export const students = [
   {
-    "name": "Andres",
+    "name": "M Andres",
     "lastname": "Jurado",
     "favorite_subject": "POO",
     "whatever": "Siempre da lo mejor de ti"
