@@ -9,6 +9,6 @@ export const students = [
     "name": "Giovanny",
     "lastname": "Cabrera Gallo",
     "favorite_subject": "POO & mates",
-    "favorite_game": "R6 & Cod"
+    "whatever": "Mis juegos favoritos son: R6 & Cod "
   },  
 ];
