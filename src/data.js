@@ -11,4 +11,10 @@ export const students = [
     "favorite_subject": "sistemas oerativos",
     "whatever": "Me gusto mucho el curso jiji :D"
   }, 
-];
+  {
+    "name": "Angel",
+    "lastname": "Torres",
+    "favorite_subject": "ABD",
+    "whatever": "Hi"
+  }
+  ];
