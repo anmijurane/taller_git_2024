@@ -6,7 +6,7 @@ export const students = [
     "whatever": "Siempre da lo mejor de ti",
   },
   {
-    "name": "Kevin",
+    "name": "Kevin A",
     "lastname": "Flores",
     "favorite_subject": "Fundamentos de programacion",
     "whatever": "Vean himym"
