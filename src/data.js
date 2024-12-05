@@ -23,4 +23,18 @@ export const students = [
     "favorite_subject": "Bases de Datos ",
     "whatever": "Lo que esta destinado a ser, siempre encontrara la manera"
   },  
+
+    {
+    "name": "Nat",
+    "lastname": "Muñoz",
+    "favorite_subject": "Bases de datos",
+    "whatever": "Aprendimos mucho en este taller"
+  },
+
+  {
+    "name": "Milton",
+    "lastname": "Rodriguez",
+    "favorite_subject": "Programacion web",
+    "whatever": "Siempre sonriendole a la vida"
+  },
 ];
