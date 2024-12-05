@@ -3,8 +3,7 @@ export const students = [
     "name": "M Andres",
     "lastname": "Jurado",
     "favorite_subject": "POO",
-    "whatever": "Siempre da lo mejor de ti",
-  },
+    "whatever": "Siempre da lo mejor de ti"
   {
     "name": "Kevin A",
     "lastname": "Flores",
@@ -29,6 +28,12 @@ export const students = [
     "favorite_subject": "Tutoria",
     "whatever": "Me agrado el curso"
   }, 
+  {
+    "name": "Luis",
+    "lastname": "Cortes",
+    "favorite_subject": "Base de Datos",
+    "whatever": "Amate Tanto"
+  },  
   {
     "name": "Erick",
     "lastname": "Guerrero",
